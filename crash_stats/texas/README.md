@@ -5,3 +5,6 @@
 
 ## Houston
 - Link to CRIS Query --> https://www.txdot.gov/data-maps/crash-reports-records/crash-data-analysis-statistics.html
+
+## Laredo
+- Link to CRIS Query --> https://www.txdot.gov/data-maps/crash-reports-records/crash-data-analysis-statistics.html
