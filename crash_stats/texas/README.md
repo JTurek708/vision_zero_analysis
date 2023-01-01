@@ -8,3 +8,6 @@
 
 ## Laredo
 - Link to CRIS Query --> https://www.txdot.gov/data-maps/crash-reports-records/crash-data-analysis-statistics.html
+
+## San Antonio
+- Link to CRIS Query --> https://www.txdot.gov/data-maps/crash-reports-records/crash-data-analysis-statistics.html
