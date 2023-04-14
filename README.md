@@ -9,3 +9,4 @@ Reach out to @JTurek708 if you want to help out with this project!
 
 # References 
 - [Vision Zero website](https://visionzeronetwork.org/resources/vision-zero-communities/), which is the source of truth for participating cities.
+- TxDOT Data Page: https://www.txdot.gov/data-maps/roadway-inventory.html
